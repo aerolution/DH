@@ -971,3 +971,4 @@ export const FormatsData: {[k: string]: ModdedSpeciesFormatsData} = {
 	water: {
 		tier: "OU",
 	},
+};

@@ -3036,6 +3036,16 @@ export const Formats: FormatList = [
 		mod: "gpt2mons", 
 		teambuilderFormat: "OU", 	
 	},
+	{
+		name: "[Gen 6] Heiwa OU",
+		threads: [
+			`&bullet; <a href="https://www.pokecommunity.com/showthread.php?t=354161/">Heiwa PokeCommunity Thread</a>`,
+		],
+
+		mod: 'heiwa',
+		ruleset: ['Standard', 'Swagger Clause'],
+		banlist: ['Uber', 'Arena Trap', 'Shadow Tag', 'Soul Dew', 'Baton Pass'],
+	},
 	{    
        name: "[Gen 8] JosMons",
        desc: 'A meta created by JosJet focused on making balance changes to the NatDex OU meta. Ex. Bug-type Buff.',

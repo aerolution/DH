@@ -3332,6 +3332,19 @@ export const Formats: FormatList = [
 		teambuilderFormat: "Rand",
 	},
 */
+	},
+	{
+		name: "[Gen 8] Realistic Randommons",
+		threads: [
+			`&bullet; <a href="https://www.smogon.com/forums/threads/3666169/">OU Metagame Discussion</a>`,
+			`&bullet; <a href="https://www.smogon.com/forums/threads/3666247/">OU Sample Teams</a>`,
+			`&bullet; <a href="https://www.smogon.com/forums/threads/3666340/">OU Viability Rankings</a>`,
+		],
+
+		mod: 'realisticrandom',
+		ruleset: ['Standard', 'Dynamax Clause'],
+		banlist: ['Uber', 'Arena Trap', 'Moody', 'Shadow Tag', 'Baton Pass'],
+	},
 	{
 		name: "[Gen 8] The 3-3-1 Typechart",
 		desc: [

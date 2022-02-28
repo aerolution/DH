@@ -1,3002 +1,3002 @@
 export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 	elegantlynx: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	developingpheasant: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	financialmeerkat: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	pricklykiwi: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	easymammal: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	dustybovid: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	charmingheron: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	moralcondor: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	gradualsmelt: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	gothicporcupine: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	zanyviper: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	massrhinoceros: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	quickestcarp: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	solidshark: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	marriedladybug: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	wildwolf: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	geneticjaguar: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	shybasilisk: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	readymite: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	historicmandrill: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	visualhamster: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	illegalcod: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	guiltykoi: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	constitutionalleopon: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	beautifulbutterfly: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	usualpelican: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	irrelevantostrich: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	blushinghornet: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	controversialskink: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	occasionalhedgehog: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	continentalmandrill: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	technologicalpuffin: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	experimentalsquid: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	yieldingwhippet: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	allegedswift: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	maturehedgehog: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	itchyworm: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	fatalcuckoo: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	dampwildcat: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	loosecoyote: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	uniquetick: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	popularpanther: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	secureleopon: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	greatmule: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	persistentrooster: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	raspycarp: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	brainytarantula: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	continuedporpoise: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	youngmarten: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	significantleech: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	novelcatfish: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	cooperativeplanarian: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	legitimateunicorn: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	delightedcanidae: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	enchantingparrotfish: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	realgorilla: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	exclusivewhippet: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	urgentboar: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	culturalmeadowlark: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	hiddenarmadillo: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	outstandingtarantula: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	militarywhitefish: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	nursingsnake: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	dualaphid: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	okguanaco: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	roundbaboon: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	improvedcockroach: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	neighbouringtoucan: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	workinglemming: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	regulatorysole: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	awaresalamander: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	chiefcod: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	sympatheticfalcon: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	innovativemarmoset: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	gothicwildebeest: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	concreteperch: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	wideflamingo: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	surprisinghawk: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	drivingleopard: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	beautifulsquid: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	religioushare: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	inevitablepanther: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	looseferret: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	frailbarnacle: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	precisecondor: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	uninterestedyak: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	officiallimpet: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	rawreptile: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	anonymousrhinoceros: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	woodenfelidae: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	governingegret: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	suitablemarsupial: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	mutelion: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	obedientasp: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	mobilegecko: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	bizarreguppy: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	tenderstarfish: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	contemporaryladybug: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	verytarsier: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	fixedgiraffe: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	surprisedshark: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	greatlion: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	baremockingbird: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	misleadingladybug: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	leftgibbon: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	scrawnysole: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	fellowjackal: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	xerothermiccentipede: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	nakedspider: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	tartwolf: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	unhappychameleon: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	visualskunk: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	urbantrout: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	stingyelephant: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	ashamedwoodpecker: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	geographicalbovid: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	thunderingminnow: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	obnoxiousvicuna: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	outsideantlion: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	miserablepike: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	verycoyote: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	xenogeneicox: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	irrelevantmarsupial: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	disgustedkoala: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	greasyiguana: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	spareworm: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	equivalentunicorn: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	extremegull: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	manualweasel: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	friendlyantlion: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	ltddeer: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	peculiarfish: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	creativeguanaco: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	colddog: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	yappiestswordfish: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	probableladybug: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	meanleopon: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	agreeableweasel: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	monthlywalrus: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	fashionableant: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	selfishcougar: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	rainygalliform: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	carefulhare: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	weecheetah: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	certainhornet: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	urgentcoyote: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	socialwasp: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	nearunicorn: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	sillyamphibian: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	absentbison: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	conservationanaconda: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	productiveparrotfish: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	federalcentipede: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	deafeningstoat: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	grumpybadger: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	slighttapir: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	aestheticfalcon: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	lengthyimpala: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	jointsquirrel: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	xenialgull: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	perfectwildcat: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	toxicrooster: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	thoughtfulguineafowl: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	keycarp: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	anxiousplatypus: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	reluctantguppy: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	torymastodon: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	yelpingpeacock: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	weirdporpoise: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	aestheticparrot: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	crazyllama: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	adjacentmarten: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	objectivefox: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	aloneunicorn: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	specifiedbadger: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	annualgibbon: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	wisechicken: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	previousjackal: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	liquidstarfish: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	accuratecatfish: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	greasyrhinoceros: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	emotionalwildcat: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	xericlungfish: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	idealcanid: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	essentialfox: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	surroundingrattlesnake: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	rattyvole: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	electronicturkey: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	amusedxerinae: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	supremebuzzard: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	unawaretiglon: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	noisyunicorn: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	freeswordtail: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	interestedyak: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	scatteredreptile: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	dulldinosaur: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	lostguppy: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	continuingtapir: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	rarebonobo: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	intensivemollusk: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	suspiciousaardvark: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	yeastyjellyfish: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	intensechicken: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	excitedleopon: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	happyhaddock: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	yeastyshrew: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	rearstork: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	innocentpeafowl: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	zygoticroundworm: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	homelessquail: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	testywalrus: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	fondflamingo: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	grimrhinoceros: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	possiblehaddock: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	annualprimate: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	dizzycatfish: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	roundsnake: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	plasticsole: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	feministemu: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	identicaldog: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	amateurmarmot: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	wrongmarmot: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	unitedpheasant: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	meltedporcupine: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	smartmanatee: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	abundantguineafowl: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	directsparrow: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	minoropossum: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	gradualzebra: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	awaredragonfly: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	structuralorangutan: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	ableermine: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	lesserrooster: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	confidentimpala: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	completelizard: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	fewpelican: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	massviper: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	okaytahr: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	nosymongoose: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	previousscallop: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	politicallamprey: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	ashamedaardvark: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	tiredpython: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	scaryparakeet: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	compactangelfish: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	wickedgalliform: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	quickestcatfish: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	determinedpuffin: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	alertstoat: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	suspiciousbug: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	eligiblewren: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	roughroadrunner: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	disastrousroundworm: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	controversialgiraffe: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	neighbouringpigeon: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	angrycanid: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	adjacentsquid: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	remarkableelephant: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	helpfulaardvark: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	middleopossum: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	alivebeaver: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	likesloth: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	creativelark: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	partialdeer: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	miserablealbatross: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	excellentpeacock: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	evidentsawfish: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	thoroughrattlesnake: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	digitalswordfish: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	distinguishedchameleon: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	loudpinniped: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	regularyak: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	managerialllama: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	cleancanid: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	unemployedalpaca: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	yuckybee: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	continuedcardinal: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	maximumox: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	busylobster: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	specialtakin: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	disturbedpanther: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	responsiblelemming: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	adequatedog: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	regionalfowl: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	desirablewarbler: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	suddenmackerel: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	efficientbarracuda: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	worriedmoose: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	punycougar: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	publicalpaca: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	perfectsloth: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	closedsloth: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	convincingurial: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	complicatedstarfish: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	darkptarmigan: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	petiteearwig: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	largehyena: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	strikingparrot: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	unconsciouschimpanzee: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	cautiousseahorse: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	territorialaardwolf: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	specialvulture: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	agriculturalhornet: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	peacefulegret: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	retiredcarp: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	parentalhyena: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	compactfowl: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	applicablemosquito: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	famoustyrannosaurus: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	cruelsparrow: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	considerablepiranha: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	levelpuma: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	evilpigeon: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	anxiouspython: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	quintessentialtyrannosaurus: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	foreigncephalopod: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	racialcrawdad: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	mechanicalmuskox: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	northernhorse: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	alrighturial: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	maturepeafowl: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	medievaldog: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	naughtybee: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	frontlizard: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	weirdmouse: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	ethicalegret: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	jointpig: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	sharptarantula: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	excellentcentipede: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	registeredkiwi: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	vitalbird: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	deliciousearwig: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	melodictarantula: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	voluntaryflamingo: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	technologicalkite: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	distantparakeet: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	mutualgoose: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	governingorangutan: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	manyparrot: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	chosencaribou: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	domesticswordtail: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	yappiestfox: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	sovietheron: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	fantasticpossum: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	useddeer: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	woodenfox: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	successiveotter: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	occupationalbasilisk: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	symbolicfinch: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	incredibleleopard: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	integralhummingbird: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	yabberingskink: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	circularunicorn: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	sympatheticunicorn: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	efficientprimate: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	thunderingswan: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	lengthywhitefish: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	territorialbison: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	ytterbiceel: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	absentgoldfish: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	adequatetyrannosaurus: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	nativeharrier: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	brilliantcrayfish: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	nettrout: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	illperch: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	spontaneouspheasant: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	communistearwig: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	scaredwoodpecker: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	digitaltarantula: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	witteringquelea: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	mistyskunk: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	busyflyingfish: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	mixedcarp: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	yellingzebra: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	interiorgalliform: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	puzzledflea: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	acceptedhawk: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	wispybison: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	sensiblebat: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	residentialtiglon: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	hiddenalbatross: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	resultingmouse: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	bloodybutterfly: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	unableferret: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	livingowl: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	isolatedquail: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	easysalamander: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	hardrook: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	cooingroadrunner: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	stormyquokka: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	formalskunk: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	colourfulpelican: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	gleamingcobra: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	successfulleech: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	ideologicalrhinoceros: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	bewilderedlimpet: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	jealousweasel: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	richcougar: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	rightperch: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	professionallemur: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	chiefpanda: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	moderateguineafowl: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	harshcattle: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	mobilebobcat: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	cooingsnake: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	beautifulhornet: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	hollowcaterpillar: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	politeelk: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	wonderfulllama: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	troublednewt: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	alivecattle: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	comingmuskox: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	widespreadminnow: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	significantbobcat: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	drypigeon: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	faintrodent: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	wildptarmigan: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	greasyferret: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	patientmarsupial: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	curlykangaroo: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	absolutehorse: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	allieddinosaur: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	bettermarlin: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	saferook: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	repulsivecougar: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	squarecapybara: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	energeticpeafowl: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	powerfulswordtail: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	characteristicgayal: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	dustypuffin: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	runningmacaw: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	professionalape: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	respectablelobster: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	scarysquirrel: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	economiclion: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	backcardinal: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	presidentialcaterpillar: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	shymink: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	averagelobster: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	gratefulgiraffe: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	presidentialsilkworm: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	cruelmink: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	presentbobcat: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	middlemosquito: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	unawareoctopus: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	viciousflea: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	enthusiastictrout: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	intenseconstrictor: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	vocationalmuskox: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	markedboar: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	bindingpuma: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	internationalhippopotamus: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	marriedmarsupial: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	creepymackerel: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	juicypython: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	tastelessloon: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	semanticsnipe: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	unitedlocust: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	awfulcrow: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	gladcrab: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	solarrooster: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	upperimpala: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	advancedmuskox: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	hilariousweasel: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	tenderpony: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	jealousscorpion: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	fortunatestingray: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	respectablewallaby: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	plannedgorilla: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	chronicwhale: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	intensivebuzzard: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	managingox: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	reducedplatypus: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	logicalloon: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	compactguan: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	lostwhale: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	thoroughpinniped: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	absenttern: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	fascinatingshrew: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	clinicalpython: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	additionaljaguar: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	fashionableheron: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	gladnarwhal: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	excellentwolf: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	levelcaterpillar: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	honestbarracuda: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	gloriousalbatross: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	strategicduck: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	closedwolf: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	gastricroundworm: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	distinguishedwhitefish: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	influentialantlion: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	quickestcat: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	racialsnipe: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	legalmeerkat: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	quickrook: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	gothichoverfly: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	chiefkoi: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	greasygerbil: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	favouriteleopon: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	civiliansloth: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	entitledtoad: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	woodenleopard: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	personaltiger: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	constanttermite: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	stalelark: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	mistybasilisk: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	lonelyjaguar: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	sheerelk: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	loyalhummingbird: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	objectivedingo: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	allegedhornet: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	okplatypus: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	disabledpinniped: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	reliabletoucan: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	creepyprawn: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	defiantbobcat: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	foreigngrouse: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	brainyroundworm: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	capitalistplanarian: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	coolplanarian: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	strangeconstrictor: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	hotmoose: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	specifiedgerbil: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	historicalcardinal: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	curlypelican: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	genuinecarp: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	initialvole: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	complicatedmandrill: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	nobleelk: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	feministtoad: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	distinguishedlemur: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	occasionalchimpanzee: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	legitimatebooby: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	courageousleopard: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	excessivebarracuda: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	ordinarypenguin: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	developinghippopotamus: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	generalcat: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	homelessalpaca: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	fairgerbil: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	commercialxerinae: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	marinerodent: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	accessibleladybug: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	assistanttarantula: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	ministerialgoose: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	greatsole: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	cheerfulmeadowlark: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	influentialpenguin: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	informalturtle: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	gratefulbeaver: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	centralstoat: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	sunnytortoise: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	biologicalhamster: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	historiccondor: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	globalsalmon: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	tensefox: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	logicalcaribou: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	overseasroadrunner: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	looselark: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	yammeringpinniped: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	primewolverine: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	ambitiousdragon: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	leftspoonbill: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	liberalplanarian: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	radicalcanidae: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	unwillingtapir: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	moaningwildebeest: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	peacefulwildcat: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	ministerialherring: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	cloudyaardwolf: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	negativeiguana: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	richcrayfish: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	lowmosquito: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	futurebat: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	intelligentmonkey: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	constantjellyfish: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	swiftflyingfish: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	nearbyseahorse: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	endlessbonobo: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	okconstrictor: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	confidentgopher: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	famousbedbug: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	chemicalwalrus: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	homelyfirefly: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	organichornet: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	shinykite: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	religiousbuzzard: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	fancywhitefish: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	straightforwardreptile: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	malewolf: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	distinctivegoose: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	coherentiguana: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	middlechickadee: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	unevenrhinoceros: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	centralanteater: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	emptytortoise: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	electronicpiranha: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	amazingmacaw: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	electronicminnow: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	matureboar: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	financialskunk: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	limitedcanid: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	medicaltrout: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	afraidmonkey: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	sufficienthamster: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	outsidemosquito: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	quickpeafowl: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	zygomorphiccoyote: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	yawningasp: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	annualyak: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	squealingdog: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	alertcat: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	madearthworm: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	selectivehyena: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	defiantlynx: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	keenaardvark: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	spottyasp: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	comprehensivecrab: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	clinicalcrow: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	distantkoala: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	convincingtarantula: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	payablegrasshopper: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	progressiveferret: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	emotionalbee: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	sparedove: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	centralaardwolf: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	fortunatexerinae: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	adverseflamingo: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	loosefowl: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	communistleopard: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	irrelevantlizard: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	normalpig: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	accessiblehoverfly: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	jealousmockingbird: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	happyshrimp: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	latinsilverfish: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	verticalbobcat: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	retailcentipede: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	relievedcaribou: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	everydayhummingbird: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	outsidemink: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	marginalnightingale: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	historicgalliform: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	blushingmuskox: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	beneficialsparrow: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	psychologicalparakeet: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	ltdpeacock: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	brainychipmunk: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	funegret: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	purecanidae: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	doubtfulclownfish: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	potentialcow: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	foolishbeaver: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	informalcattle: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	calmtiger: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	precioussnipe: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	fancyskunk: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	chillysturgeon: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	cooperativeworm: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	giganticcattle: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	vitalcaribou: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	identicalswallow: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	quarrelsomepheasant: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	existingfox: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	prettyeagle: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	digitalgoose: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	administrativeprimate: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	diversetarantula: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	thoughtlesslemur: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	eldestmole: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	followingkoi: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	inlandpinniped: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	frozenotter: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	pastmeerkat: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	romanticleech: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	troubledquelea: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	secondaryyak: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	scornfulegret: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	southerndeer: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	courageousantlion: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	sparklingjackal: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	formalprimate: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	strangehookworm: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	torycattle: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	federalwombat: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	continuousfly: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	crucialasp: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	generalgiraffe: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	convincingplanarian: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	distinctparrotfish: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	fragileox: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	midreindeer: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	internalcrab: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	coherentcarp: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	ministerialbovid: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	unlikelyrabbit: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	internalsailfish: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	validflyingfish: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	zealouspelican: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	strongtoad: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	richlynx: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	eventualmite: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	accurateangelfish: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	consistentconstrictor: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	panickylark: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	currentpelican: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	probablehoverfly: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	calmmarsupial: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	adequateostrich: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	reducedparakeet: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	widespreadpanther: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	desirableaardwolf: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	parentalstork: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	sportingfish: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	passiveechidna: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	rawflyingfish: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	stablepuffin: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	innocentwolverine: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	betterechidna: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	awkwardgoldfish: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	colonialgoose: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	littlemagpie: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	arrogantalpaca: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	cleancaterpillar: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	uncomfortableeel: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	madmole: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	fiercecod: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	yellingmarmot: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	weirdpony: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	verticalptarmigan: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	awarecaterpillar: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	smartwombat: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	ruralmammal: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	fartarantula: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	tartbandicoot: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	cooperativelamprey: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	youngestwhitefish: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	integralwalrus: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	knownrook: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	frightenedprawn: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	detailedleopard: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	agreedraccoon: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	stickytyrannosaurus: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	exclusivelobster: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	tamesnake: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	subjectivenewt: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	technicalgull: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	linguisticcrane: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	southernwasp: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	delicateostrich: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	femalepinniped: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	cuddlyalligator: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	delightedboa: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	dreadfulsparrow: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	youngmammal: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	teenagecephalopod: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	impressedalpaca: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	minornightingale: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	grubbychinchilla: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	stablegoat: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	abundantkiwi: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	grandhaddock: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	drabdog: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	fixedgrouse: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	acceptedpony: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	residentcrane: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	miniaturehoverfly: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	sportingpuffin: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	technicalgecko: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	regulardonkey: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	repulsiverattlesnake: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	newcanidae: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	firmbird: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	zestycattle: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	fixedguan: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	yelpingotter: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	firmoctopus: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	drunkraven: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	acceptableostrich: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	delicatecatshark: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	limitedvole: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	integratedtoad: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	anxioustuna: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	distinctantlion: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	steadyskink: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	xenialladybug: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	selecthornet: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	icychinchilla: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	ytterbicthrush: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	agreeableplanarian: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	southernwarbler: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	weaksnail: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	intellectualgoat: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	wetlemming: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	availablemastodon: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	pleasanttrout: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	environmentalpelican: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	broadquail: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	attractivecougar: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	miserablewombat: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	annoyedwildfowl: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	alonecentipede: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	crazytarantula: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	yearningsheep: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	slowharrier: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	subjectivemeadowlark: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	capablewoodpecker: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	crucialcuckoo: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	capablesmelt: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	unemployedmacaw: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	statisticalrook: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	conceptualsailfish: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	entitledsilverfish: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	healthysnake: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	sickcobra: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	institutionalswordtail: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	weaklynx: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	freshlungfish: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	cheappartridge: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	innovativemoth: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	yuckycobra: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	unhappypiranha: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	inchare: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	criticalmosquito: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	sillybug: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	southerndragonfly: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	tropicalleopon: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	emptyblackbird: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	domesticperch: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	rattyhaddock: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	metropolitansilkworm: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	undergroundcardinal: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	curlybear: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	dullmanatee: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	crowdedsnake: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	gothicquelea: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	troubledpigeon: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	socialistalbatross: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	domesticleopard: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	welcomekoi: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	rigidmarsupial: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	eligibleechidna: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	liberalwildebeest: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	woodencoral: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	unknownfelidae: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	concretecougar: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	communistaardvark: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	alertsole: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	shallowxerinae: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	thunderingdormouse: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	absentwhippet: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	witteringheron: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	everydaybandicoot: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	eventualcattle: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	overallgoat: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	civicmole: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	abundantvicuna: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	yearningsailfish: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	federaltrout: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	internalchameleon: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	uninterestedrook: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	amazingoctopus: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	territorialmollusk: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	tastyguppy: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	substantialoctopus: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	unablecaterpillar: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	socialistorangutan: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	madhare: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	organickrill: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	primegoose: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	colonialalpaca: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	whisperingchicken: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	heavybadger: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	overallhoverfly: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	rulingbaboon: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	mixedwolverine: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	evidentjellyfish: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	extragull: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	blindmole: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	leftpigeon: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	intellectualcoyote: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	mildparrotfish: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	nutritiouskiwi: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	electoralmammal: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	primedinosaur: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	ridiculousearthworm: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	growingcanidae: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	valuablebird: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	mightyperch: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	rationalcat: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	surroundingdonkey: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	fierceanglerfish: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	objectiveostrich: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	verticalhare: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	flyingdog: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	severeturkey: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	cheapurial: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	wanderingcentipede: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	fatalcaribou: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	additionalcatfish: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	widespreadanglerfish: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	scarybonobo: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	officialvole: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	superdinosaur: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	obviousswift: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	boredplanarian: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	democraticswan: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	negativebeetle: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	mildgrasshopper: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	eldesthaddock: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	sexualamphibian: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	livingtortoise: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	feministamphibian: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	wilyrabbit: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	oppositeskink: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	invisiblepartridge: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	intelligenthare: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	shockedreindeer: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	colouredwhitefish: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	digitaljay: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	autonomousleopon: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	coldstarfish: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	sweetxerinae: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	beneficialreptile: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	principalsilverfish: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	premierbutterfly: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	ltdgopher: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	interiorgorilla: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	swiftalligator: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	objectivekiwi: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	electricalarmadillo: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	administrativetoad: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	royalcattle: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	steepstoat: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	yelpinghaddock: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	surprisingdog: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	bloodyseahorse: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	suddenchinchilla: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	pregnantpenguin: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	individualporpoise: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	jealousptarmigan: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	scornfulladybug: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	alrightcaribou: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	rainybarracuda: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	determinedmosquito: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	brokenechidna: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	ytterbicsnipe: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	criminalsole: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	openmongoose: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	deliberatepython: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	reasonablerook: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	ugliestcanidae: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	parliamentarygiraffe: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	priorpigeon: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	zestfulwolverine: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	controlledpanther: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	competitivebuzzard: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	manytoad: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	fortunateminnow: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	urbansnail: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	wisetrout: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	alertearwig: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	profoundprimate: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	equalherring: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	saltylamprey: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	competitivechameleon: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	inappropriatestork: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	livetoad: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	miniaturerook: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	unfortunaterook: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	undergroundvicuna: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	electronicbadger: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	liberalscorpion: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	decisivegazelle: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	calmantelope: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	gladshrimp: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	femalecricket: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	wetcrab: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	pastlocust: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	emptyturtle: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	cloudysmelt: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	presentcobra: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	assistantcrawdad: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	legislativepike: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	chubbygrasshopper: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	electronicmollusk: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	everydaylandfowl: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	poisedamphibian: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	massivegalliform: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	brilliantshrimp: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	eagermosquito: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	cooingbasilisk: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	reliablejunglefowl: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	coherentfish: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	biologicalfish: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	trickycrocodile: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	poisedlungfish: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	yummyowl: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 	validrabbit: {
-		tier: "OU",
+		tier: "RR OU",
 	},
 };

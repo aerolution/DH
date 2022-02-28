@@ -3341,8 +3341,8 @@ export const Formats: FormatList = [
 		],
 
 		mod: 'realisticrandom',
-		ruleset: ['Standard', 'Dynamax Clause'],
-		banlist: ['Uber', 'Arena Trap', 'Moody', 'Shadow Tag', 'Baton Pass'],
+		ruleset: ['Standard', 'Dynamax Clause', 'Data Mod'],
+		banlist: ['Uber', 'Arena Trap', 'Moody', 'Shadow Tag', 'Baton Pass', 'Simple', 'Wonder Guard', 'Shift Gear', 'Shell Smash', 'Quiver Dance', 'Huge Power', 'Pure Power'],
 	},
 	{
 		name: "[Gen 8] The 3-3-1 Typechart",

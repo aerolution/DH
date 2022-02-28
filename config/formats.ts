@@ -3332,7 +3332,6 @@ export const Formats: FormatList = [
 		teambuilderFormat: "Rand",
 	},
 */
-	},
 	{
 		name: "[Gen 8] Realistic Randommons",
 		threads: [

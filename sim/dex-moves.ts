@@ -48,6 +48,12 @@ interface MoveFlags {
 	sound?: 1; // Has no effect on Pokemon with the Ability Soundproof.
 }
 
+interface RawMaterials {
+	daedraHeart?: 1;
+	ebonyIngot?: 1;
+	leatherStrips?: 1;
+}
+
 export interface HitEffect {
 	onHit?: MoveEventMethods['onHit'];
 
@@ -129,7 +135,7 @@ export interface MoveData extends EffectData, MoveEventMethods, HitEffect {
 	basePower: number;
 	accuracy: true | number;
 	pp: number;
-	category: 'Physical' | 'Special' | 'Status';
+	category: 'Physical' | 'Special' | 'Status' /*Skyrimmon*/ | 'Combat' | 'Magic' | 'Stealth';
 	type: string;
 	priority: number;
 	target: MoveTarget;
@@ -240,6 +246,14 @@ export interface MoveData extends EffectData, MoveEventMethods, HitEffect {
 	noSketch?: boolean;
 	stallingMove?: boolean;
 	baseMove?: string;
+	
+	// Skyrimmon flags
+	weight: number,
+	value: number,
+	damage: number,
+	critDamage: number,
+	speed: number,
+	reach: number,
 }
 
 export type ModdedMoveData = MoveData | Partial<Omit<MoveData, 'name'>> & {
@@ -424,6 +438,8 @@ export class DataMove extends BasicEffect implements Readonly<BasicEffect & Move
 	readonly stab?: number;
 
 	readonly volatileStatus?: ID;
+	//Skyrimmon
+	readonly rawMaterials: RawMaterials;
 
 	constructor(data: AnyObject, ...moreData: (AnyObject | null)[]) {
 		super(data, ...moreData);

@@ -760,7 +760,7 @@ export class TeamValidator {
 		const problems = [];
 		const name = set.name || set.species;
 		const statTable = {
-			hea: 'Health', mag: 'Magicka', stam: 'Stamina', arch: 'Archery', conj: 'Conjuration', dest: 'Destruction', ench: 'Enchanting', ill: 'Illusion', rest: 'Restoration',
+			hp: 'HP', atk: 'Attack', def: 'Defense', spa: 'Special Attack', spd: 'Special Defense', spe: 'Speed', /*Skyrimmon*/ hea: 'Health', mag: 'Magicka', stam: 'Stamina', arch: 'Archery', conj: 'Conjuration', dest: 'Destruction', ench: 'Enchanting', ill: 'Illusion', rest: 'Restoration',
 		};
 
 		const maxedIVs = Object.values(set.ivs).every(stat => stat === 31);

@@ -20,8 +20,8 @@ interface DexTable<T> {
 }
 
 type GenderName = 'M' | 'F' | 'N' | '';
-type StatNameExceptHP = 'mag' | 'stam';
-type StatName = 'hea' | StatNameExceptHP;
+type StatNameExceptHP = 'atk' | 'def' | 'spa' | 'spd' | 'spe' /*Skyrimmon*/ | 'mag' | 'stam';
+type StatName = 'hp' | StatNameExceptHP /*Skyrimmon*/ | 'hea';
 type StatsExceptHPTable = {[stat in StatNameExceptHP]: number};
 type StatsTable = {[stat in StatName]: number };
 type SparseStatsTable = Partial<StatsTable>;

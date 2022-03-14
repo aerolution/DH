@@ -3373,7 +3373,7 @@ export const Formats: FormatList = [
 		],
 
 		mod: 'realisticrandom',
-		ruleset: ['Standard', 'Dynamax Clause', 'Data Mod'],
+		ruleset: ['Standard NatDex', 'OHKO Clause', 'Evasion Moves Clause', 'Species Clause', 'Dynamax Clause', 'Sleep Clause Mod', 'Data Mod'],
 		banlist: ['Uber', 'Arena Trap', 'Moody', 'Shadow Tag', 'Baton Pass', 'Simple', 'Wonder Guard', 'Shift Gear', 'Shell Smash', 'Quiver Dance', 'Huge Power', 'Pure Power', 'Libero', 'Protean', 'Gorilla Tactics', 'Spore', 'Imposter', 'Moxie', 'Soul-Heart', 'Beast Boost', 'Intrepid Sword', 'Fur Coat', 'Ice Scales', 'Geomancy', 'Disguise', 'Speed Boost'],
 	},
 	{

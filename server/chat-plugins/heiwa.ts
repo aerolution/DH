@@ -646,13 +646,13 @@ export const commands: ChatCommands = {
 			"[SID] is the unique species identifier of the pokemon you are taking.",
 			"Use /heiwa collection [user] to view this user's collection and find the SID of the pokemon you are taking.",
 			"Requires ~"
-		]
-	},
+		],
 
-	// Redirect /heiwa and /heiwa help to /help heiwa
-	'': 'help',
-	help() {
-		this.parse("/help heiwa");
+		// Redirect /heiwa and /heiwa help to /help heiwa
+		'': 'help',
+		help() {
+			this.parse("/help heiwa");
+		},
 	},
 	heiwahelp: [
 		"Pokemon Heiwa Commands.",
